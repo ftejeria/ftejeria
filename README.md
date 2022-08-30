@@ -12,5 +12,5 @@
 
 - 📫 How to reach me **tejeria.felipe@gmail.com**
 
-- 📄 Know about my experiences and connect via <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/felipe-tejería">Linkedin</a>
+- 📄 Know about my experiences and connect via <a href="www.linkedin.com/in/felipe-tejería">Linkedin</a>
 <br/>
