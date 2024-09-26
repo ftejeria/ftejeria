@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe  </h1>
-<h3 align="center">Passionate Backend Developer and Computer Science Student from Uruguay <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1fa-1f1fe.png" alt="Google (Android 12L)"  width="20" height="20"></h3>
+<h3 align="center">Passionate Backend Engineer with a college degree in Computer Science  <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1fa-1f1fe.png" alt="Google (Android 12L)"  width="20" height="20"></h3>
 
 
 <a target="_blank" align="center">
